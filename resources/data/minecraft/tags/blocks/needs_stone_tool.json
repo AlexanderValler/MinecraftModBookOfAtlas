@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "atlasmod:atlasite_block",
+    "atlasmod:atlasite_brick",
+    "atlasmod:atlasite_brick_fence",
+    "atlasmod:atlasite_brick_wall",
+    "atlasmod:atlasite_brick_fence_gate",
+    "atlasmod:atlasite_slab",
+    "atlasmod:atlasite_brick_slab",
+    "atlasmod:atlasite_brick_stairs"
+  ]
+}

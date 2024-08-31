@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "atlasmod",
+  "version": "${version}",
+
+  "name": "Atlas Mod",
+  "description": "Atlas has arrived.",
+  "authors": [
+    "Goldcraft"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "Website here"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.goldcraft.atlasmod.AtlasMod"
+    ],
+    "client": [
+      "net.goldcraft.atlasmod.AtlasClientMod"
+    ]
+  },
+  "mixins": [
+    "atlasmod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

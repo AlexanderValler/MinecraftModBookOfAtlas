@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "atlasmod:atlasite_block",
+    "atlasmod:atlasite_brick",
+    "atlasmod:atlasite_ore",
+    "atlasmod:deepslate_atlasite_ore"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "clicked=false": { "model": "atlasmod:block/atlasite_lamp_off" },
+    "clicked=true": { "model": "atlasmod:block/atlasite_lamp_on" }
+  }
+}

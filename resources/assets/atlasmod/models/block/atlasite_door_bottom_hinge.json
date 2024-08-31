@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_rh",
+  "textures": {
+    "top": "atlasmod:block/atlasite_door_top",
+    "bottom": "atlasmod:block/atlasite_door_bottom"
+  }
+}

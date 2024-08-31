@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "atlasmod:atlasite_block"
+    }
+  ],
+  "result": {
+    "item": "atlasmod:atlasite_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "atlasmod:block/atlasite_brick_pressure_plate" },
+    "powered=true": { "model": "atlasmod:block/atlasite_brick_pressure_plate_down" }
+  }
+}

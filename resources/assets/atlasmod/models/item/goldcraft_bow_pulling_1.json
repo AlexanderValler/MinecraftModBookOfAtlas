@@ -1,0 +1,6 @@
+{
+    "parent": "atlasmod:item/goldcraft_bow",
+    "textures": {
+        "layer0": "atlasmod:item/goldcraft_bow_pulling_1"
+    }
+}

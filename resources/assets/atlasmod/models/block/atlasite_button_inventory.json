@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "atlasmod:block/atlasite_block"
+  }
+}

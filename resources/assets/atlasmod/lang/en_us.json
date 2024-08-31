@@ -1,0 +1,60 @@
+{
+  "item.atlasmod.atlasite_ingot": "Atlasite Ingot",
+  "item.atlasmod.gilded_berries": "Gilded Berries",
+  "item.atlasmod.gilded_heart": "Gilded Heart",
+  "item.atlasmod.gilded_flesh": "Gilded Flesh",
+  "item.atlasmod.gilded_berry_soup": "Gilded Berry Soup",
+  "item.atlasmod.gilded_beef": "Gilded Beef",
+
+  "item.atlasmod.atlasite_pickaxe": "Atlasite Pickaxe",
+  "item.atlasmod.atlasite_axe": "Atlasite Axe",
+  "item.atlasmod.atlasite_shovel": "Atlasite Shovel",
+  "item.atlasmod.atlasite_hoe": "Atlasite Hoe",
+  "item.atlasmod.atlasite_sword": "Atlasite Sword",
+  "item.atlasmod.atlasite_and_obsidian": "Atlasite & Obsidian",
+
+  "item.atlasmod.atlasite_helmet": "Atlasite Helmet",
+  "item.atlasmod.atlasite_chestplate": "Atlasite Chestplate",
+  "item.atlasmod.atlasite_leggings": "Atlasite Leggings",
+  "item.atlasmod.atlasite_boots": "Atlasite Boots",
+
+  "item.atlasmod.magic_mythril_dust": "Atlasite Dust",
+  "item.atlasmod.atlas_shard": "Atlas Shard",
+  "item.atlasmod.atlas_tome": "Atlas Tome",
+  "item.atlasmod.gilded_bone": "Gilded Bone",
+  "item.atlasmod.gilded_crystal": "Gilded Crystal",
+  "item.atlasmod.gilded_fabric": "Gilded Fabric",
+  "item.atlasmod.gilded_seed": "Gilded Seed",
+  "item.atlasmod.goldcraft_bow": "GoldCraft Bow",
+
+  "block.atlasmod.gilded_brush": "Gilded Brush",
+  "block.atlasmod.potted_gilded_brush": "Potted Gilded Brush",
+
+  "block.atlasmod.atlasite_block": "Atlasite Block",
+  "block.atlasmod.atlasite_ore": "Atlasite Ore",
+  "block.atlasmod.deepslate_atlasite_ore": "Deepslate Atlasite Ore",
+  "block.atlasmod.speedy_block": "Speedy Block",
+  "block.atlasmod.atlasite_brick": "Atlasite Brick",
+
+  "block.atlasmod.atlasite_button": "Atlasite Button",
+  "block.atlasmod.atlasite_brick_button": "Atlasite Brick Button",
+  "block.atlasmod.atlasite_pressure_plate": "Atlasite Pressure Plate",
+  "block.atlasmod.atlasite_brick_pressure_plate": "Atlasite Brick Pressure Plate",
+  "block.atlasmod.atlasite_brick_fence": "Atlasite Brick Fence",
+  "block.atlasmod.atlasite_brick_wall": "Atlasite Brick Wall",
+  "block.atlasmod.atlasite_brick_fence_gate": "Atlasite Brick Fence Gate",
+
+  "block.atlasmod.atlasite_door": "Atlasite Door",
+  "block.atlasmod.kaupen_trapdoor": "Kaupen Trapdoor",
+  "block.atlasmod.atlasite_slab": "Atlasite Slab",
+  "block.atlasmod.atlasite_brick_slab": "Atlasite Brick Slab",
+  "block.atlasmod.atlasite_brick_stairs": "Atlasite Brick Stairs",
+
+  "block.atlasmod.atlasite_lamp": "Atlasite Lamp",
+  "block.atlasmod.atlasite_window": "Atlasite Window",
+  "block.atlasmod.grape_vine": "Grape Vine",
+
+  "itemGroup.atlasmod.atlas": "Atlas Mod",
+
+  "tooltip.atlasmod.atlasite_block": "A Magical Block"
+}

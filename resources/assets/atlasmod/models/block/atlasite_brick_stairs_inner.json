@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "atlasmod:block/atlasite_brick",
+    "top": "atlasmod:block/atlasite_brick",
+    "side": "atlasmod:block/atlasite_brick"
+  }
+}

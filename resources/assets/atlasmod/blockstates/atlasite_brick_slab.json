@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "atlasmod:block/atlasite_brick_slab"
+    },
+    "type=double": {
+      "model": "atlasmod:block/atlasite_brick_block"
+    },
+    "type=top": {
+      "model": "atlasmod:block/atlasite_brick_slab_top"
+    }
+  }
+}

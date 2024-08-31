@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "atlasmod:block/atlasite_block" }
+  }
+}

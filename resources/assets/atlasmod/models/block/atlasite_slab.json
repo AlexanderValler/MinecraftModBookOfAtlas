@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "atlasmod:block/atlasite_block",
+    "top": "atlasmod:block/atlasite_block",
+    "side": "atlasmod:block/atlasite_block"
+  }
+}
